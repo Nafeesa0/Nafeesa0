@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nafeesa0
+- 👋 Hi, I’m @Nafeesakt0
 - 👀 I’m interested in designing and coding 
 - 🌱 I’m currently learning python,java,c programming,php,html
 - 💞️ I’m looking to collaborate on ...
