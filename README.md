@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nafeesa K T 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer (Fresher)</b> · MCA Graduate · Kerala, India<br/>
+  <b>Full Stack Developer </b> · MCA Graduate · Kerala, India<br/>
   <i>I build complete web products, from the database and API to a polished, animated interface.</i>
 </p>
 
